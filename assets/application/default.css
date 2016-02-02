@@ -277,7 +277,7 @@
     }
 
     .logo {
-      background: image-url('logo.png') no-repeat;
+      background: url('logo.png') no-repeat;
       width: 71px;
       height: 94px;
       float: left;
